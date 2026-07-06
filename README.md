@@ -3,9 +3,13 @@
 <!-- 1. Большой красивый баннер с анимацией (capsule-render, фиолетово-тёмная палитра) -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=220&section=header&text=Привет,%20я%20Николай%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python-разработчик%20|%204.5%20года%20опыта&descAlignY=58&descSize=18" />
 
-<!-- 2. Приветствие + основная информация -->
+<!-- 2. Приветствие + основная информация (анимированный текст) -->
 
-### Python-разработчик • Вечный ученик • Люблю разбираться, как всё устроено 🐍
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Python-разработчик+%F0%9F%90%8D;Учусь+4.5+года+и+не+останавливаюсь;Backend+%2B+постоянное+обучение" alt="Typing SVG" />
+
+<br>
+
+### Python-разработчик • Вечный ученик • Люблю разбираться, как всё устроено
 
 Программирую на Python уже 4.5 года — и до сих пор кайфую от момента,
 когда код наконец заработал так, как задумывалось.
@@ -98,11 +102,22 @@
 
 <br>
 
-## 🏆 Трофеи
+## 💬 Цитата дня
 
 <div align="center">
 
-<img src="https://github-profile-trophy-winning.vercel.app/?username=Nikolai124&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-readme-quotes.vercel.app/quote?theme=dracula&layout=default" />
+
+</div>
+
+<br>
+
+## 📌 Репозитории
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikolai124&repo=fiasko_bro&theme=dracula&hide_border=true" width="45%" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikolai124&repo=gron&theme=dracula&hide_border=true" width="45%" />
 
 </div>
 
