@@ -66,10 +66,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikolai124&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nikolai124&theme=dracula" width="49%" />
 <img src="https://streak-stats.demolab.com/?user=Nikolai124&theme=dracula&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai124&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nikolai124&theme=dracula" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Nikolai124&theme=dracula" width="49%" />
 
 </div>
 
@@ -79,7 +80,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolai124&theme=dracula&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolai124&theme=radical&hide_border=true" width="95%" />
 
 </div>
 
