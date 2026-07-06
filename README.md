@@ -102,7 +102,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nikolai124&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Nikolai124&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
