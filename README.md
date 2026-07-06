@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- 1. Большой красивый баннер с анимацией (capsule-render) -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Привет,%20я%20Николай%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python-разработчик%20|%204.5%20года%20опыта&descAlignY=58&descSize=18" />
+<!-- 1. Большой красивый баннер с анимацией (capsule-render, фиолетово-тёмная палитра) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=220&section=header&text=Привет,%20я%20Николай%20👋&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Python-разработчик%20|%204.5%20года%20опыта&descAlignY=58&descSize=18" />
 
 <!-- 2. Приветствие + основная информация -->
 
@@ -26,7 +26,7 @@
 ## 🚀 Обо мне
 
 - 🧠 Учусь программировать на Python **4.5 года**, и каждый год — новый уровень
-- 🔧 Прошёл путь от игр на **Unity** и сайтов на **HTML + CSS** до backend-разработки
+- 🔧 Прошёл путь от сайтов на **HTML + CSS** и игр на **Unity** до backend-разработки
 - 🏆 Успел поучаствовать в **3 хакатонах** — люблю дедлайны, которые заставляют думать быстро
 - 🔍 Стараюсь не просто "уметь", а **понимать, почему это работает именно так**
 - ♻️ Регулярно возвращаюсь к старым проектам, чтобы переписать их лучше — прогресс видно только так
@@ -66,10 +66,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikolai124&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Nikolai124&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikolai124&show_icons=true&theme=dracula&hide_border=true&count_private=true&cache_seconds=86400" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Nikolai124&theme=dracula&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai124&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai124&layout=compact&theme=dracula&hide_border=true&cache_seconds=86400" width="49%" />
 
 </div>
 
@@ -79,7 +79,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolai124&theme=redical&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolai124&theme=dracula&hide_border=true" width="95%" />
 
 </div>
 
@@ -89,9 +89,9 @@
 
 <div align="center">
 
-| 🎮 Начало | 🌐 Развитие | 🏆 Хакатоны | 💻 Сейчас |
+| 🐍 Начало | 🎮 Развитие | 🏆 Хакатоны | 💻 Сейчас |
 |:---:|:---:|:---:|:---:|
-| Игры на Unity — первое знакомство с логикой и структурой кода | Сайты на HTML + CSS — научился превращать идеи в интерфейс | 3 хакатона — опыт работы в команде и под давлением времени | Backend на Python — учусь строить то, что работает "под капотом" |
+| Python и сайты на HTML + CSS — первые шаги в программировании | Игры на Unity — расширил кругозор в геймдеве | 3 хакатона — опыт командной работы под давлением времени | Упор на **Python** (backend), сайты — как дополнительный навык |
 
 </div>
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nikolai124&theme=radical&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nikolai124&theme=dracula&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -110,8 +110,8 @@
 <!-- 8. Счётчик просмотров -->
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Nikolai124&color=6a11cb&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=Nikolai124&color=9d4edd&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2575fc,100:6a11cb&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9d4edd,50:4a1e6d,100:1a1a2e&height=100&section=footer" />
 
 </div>
