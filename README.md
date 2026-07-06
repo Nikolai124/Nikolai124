@@ -5,7 +5,7 @@
 
 <!-- 2. Приветствие + основная информация (анимированный текст) -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Python-разработчик+%F0%9F%90%8D;Учусь+4.5+года+и+не+останавливаюсь;Backend+%2B+постоянное+обучение" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=9D4EDD&center=true&vCenter=true&width=600&lines=Python-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA+%F0%9F%90%8D;%D0%A3%D1%87%D1%83%D1%81%D1%8C+4.5+%D0%B3%D0%BE%D0%B4%D0%B0+%D0%B8+%D0%BD%D0%B5+%D0%BE%D1%81%D1%82%D0%B0%D0%BD%D0%B0%D0%B2%D0%BB%D0%B8%D0%B2%D0%B0%D1%8E%D1%81%D1%8C;Backend+%2B+%D0%BF%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%BD%D0%BE%D0%B5+%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5)](https://github.com/Nikolai124)
 
 <br>
 
@@ -106,7 +106,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-quotes.vercel.app/quote?theme=dracula&layout=default" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&border=true" />
 
 </div>
 
@@ -114,12 +114,8 @@
 
 ## 📌 Репозитории
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikolai124&repo=fiasko_bro&theme=dracula&hide_border=true" width="45%" />
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Nikolai124&repo=gron&theme=dracula&hide_border=true" width="45%" />
-
-</div>
+- 🐍 [**fiasko_bro**](https://github.com/Nikolai124/fiasko_bro) — проект на Python
+- 🔷 [**gron**](https://github.com/Nikolai124/gron) — проект на Go
 
 <br>
 
