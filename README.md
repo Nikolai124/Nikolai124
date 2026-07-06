@@ -30,6 +30,10 @@
 
 <br>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
+
 ## 🚀 Обо мне
 
 - 🧠 Учусь программировать на Python **4.5 года**, и каждый год — новый уровень
@@ -40,6 +44,10 @@
 - 🌱 Если не знаю технологию — это не стоп-сигнал, а повод разобраться
 
 <br>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
 
 ## 🎯 Чем занимаюсь сейчас
 
@@ -53,6 +61,10 @@
 
 <br>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -62,6 +74,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -77,6 +93,10 @@
 
 <br>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
+
 ## 📈 Активность
 
 <div align="center">
@@ -86,6 +106,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
 
 ## 🏅 Путь и достижения
 
@@ -99,6 +123,10 @@
 
 <br>
 
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
+
 ## 💬 Цитата дня
 
 <div align="center">
@@ -108,6 +136,10 @@
 </div>
 
 <br>
+
+<div align="center">
+<img width="60%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a2e,50:4a1e6d,100:9d4edd&height=3" />
+</div>
 
 ## 📌 Репозитории
 
