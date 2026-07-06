@@ -5,22 +5,19 @@
 
 <!-- 2. Приветствие + основная информация -->
 
-### Python-разработчик с опытом 4.5 года 🐍
+### Python-разработчик • Вечный ученик • Люблю разбираться, как всё устроено 🐍
 
-Учусь программированию на Python уже 4.5 года. Участвовал в 3 хакатонах.  
-Создавал игры на Unity и веб-сайты на HTML + CSS в онлайн-школе.  
-Сейчас активно развиваюсь в **backend-разработке**.
+Программирую на Python уже 4.5 года — и до сих пор кайфую от момента,
+когда код наконец заработал так, как задумывалось.
+Сейчас двигаюсь в сторону **backend-разработки**, но не ограничиваю себя одной областью:
+если тема интересная — беру и разбираюсь, даже если раньше с ней не сталкивался.
 
-<!-- 3. Атмосферные GIF (кодинг/бэкенд + эстетика) -->
+<!-- 3. Атмосферные GIF -->
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="450">
 
 <br><br>
 
 <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/coding-animated.gif" width="450">
-
-<br><br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="450">
 
 </div>
 
@@ -28,12 +25,24 @@
 
 ## 🚀 Обо мне
 
-- 🎓 Изучаю Python уже **4.5 года**
-- 🏆 Участвовал в **3 хакатонах**
-- 🎮 Разрабатывал игры на **Unity**
-- 🌐 Создавал веб-сайты на **HTML + CSS**
-- 💻 Сейчас углубляюсь в **backend-разработку**
-- 🌱 Постоянно изучаю новые технологии и делаю pet-проекты
+- 🧠 Учусь программировать на Python **4.5 года**, и каждый год — новый уровень
+- 🔧 Прошёл путь от игр на **Unity** и сайтов на **HTML + CSS** до backend-разработки
+- 🏆 Успел поучаствовать в **3 хакатонах** — люблю дедлайны, которые заставляют думать быстро
+- 🔍 Стараюсь не просто "уметь", а **понимать, почему это работает именно так**
+- ♻️ Регулярно возвращаюсь к старым проектам, чтобы переписать их лучше — прогресс видно только так
+- 🌱 Если не знаю технологию — это не стоп-сигнал, а повод разобраться
+
+<br>
+
+## 🎯 Чем занимаюсь сейчас
+
+<div align="center">
+
+| 📚 Изучаю | 🛠️ Практикую | 🎯 Цель |
+|:---:|:---:|:---:|
+| Backend, архитектуру приложений, работу с базами данных | Pet-проекты, чтобы не терять руку и пробовать новое на практике | Уверенно чувствовать себя в реальной разработке, а не только "знать теорию" |
+
+</div>
 
 <br>
 
@@ -57,22 +66,32 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nikolai124&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikolai124&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nikolai124&show_icons=true&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Nikolai124&theme=radical&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai124&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikolai124&layout=compact&theme=radical&hide_border=true&cache_seconds=1800" width="49%" />
 
 </div>
 
 <br>
 
-## 🏅 Достижения
+## 📈 Активность
 
 <div align="center">
 
-| 🏆 Хакатоны | 🎮 Игры на Unity | 🌐 Веб-сайты | 📚 Обучение |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikolai124&theme=redical&hide_border=true" width="95%" />
+
+</div>
+
+<br>
+
+## 🏅 Путь и достижения
+
+<div align="center">
+
+| 🎮 Начало | 🌐 Развитие | 🏆 Хакатоны | 💻 Сейчас |
 |:---:|:---:|:---:|:---:|
-| Участие в **3 хакатонах** | Разработка игр на Unity | Полноценные сайты на HTML + CSS | Постоянное изучение новых технологий и pet-проектов |
+| Игры на Unity — первое знакомство с логикой и структурой кода | Сайты на HTML + CSS — научился превращать идеи в интерфейс | 3 хакатона — опыт работы в команде и под давлением времени | Backend на Python — учусь строить то, что работает "под капотом" |
 
 </div>
 
