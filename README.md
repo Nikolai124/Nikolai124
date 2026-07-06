@@ -114,8 +114,11 @@
 
 ## 📌 Репозитории
 
-- 🐍 [**fiasko_bro**](https://github.com/Nikolai124/fiasko_bro) — проект на Python
-- 🔷 [**gron**](https://github.com/Nikolai124/gron) — проект на Go
+<div align="center">
+
+[![Все репозитории](https://img.shields.io/badge/Смотреть_все_репозитории-9D4EDD?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nikolai124?tab=repositories)
+
+</div>
 
 <br>
 
