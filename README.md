@@ -11,6 +11,9 @@
 
 ### Python-разработчик • Вечный ученик • Люблю разбираться, как всё устроено
 
+<img src="https://img.shields.io/github/followers/Nikolai124?style=for-the-badge&color=9D4EDD&logo=github&label=Followers&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&color=9D4EDD&labelColor=1a1a2e&label=Public%20Repos&query=public_repos&url=https://api.github.com/users/Nikolai124" />
+
 Программирую на Python уже 4.5 года — и до сих пор кайфую от момента,
 когда код наконец заработал так, как задумывалось.
 Сейчас двигаюсь в сторону **backend-разработки**, но не ограничиваю себя одной областью:
@@ -54,13 +57,7 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,html,css,unity,git,github,vscode&theme=dark" />
 
 </div>
 
