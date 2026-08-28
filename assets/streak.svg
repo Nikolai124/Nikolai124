@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="160" viewBox="0 0 495 160" font-family="'Segoe UI', Ubuntu, sans-serif">
+  <rect x="1" y="1" width="493" height="158" rx="8" fill="#141321" stroke="#5A189A" stroke-width="1.5"/>
+  <line x1="165" y1="34" x2="165" y2="126" stroke="#5A189A" stroke-width="1"/>
+  <line x1="330" y1="34" x2="330" y2="126" stroke="#5A189A" stroke-width="1"/>
+  <g transform="translate(83, 0)">
+    <text x="0" y="74" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700">304</text>
+    <text x="0" y="104" text-anchor="middle" fill="#9D4EDD" font-size="14" font-weight="600">Всего контрибуций</text>
+    <text x="0" y="126" text-anchor="middle" fill="#8B949E" font-size="11">с 15 окт 2024</text>
+  </g>
+  <circle cx="247" cy="55" r="37" fill="none" stroke="#C77DFF" stroke-width="4" opacity="0.9"/>
+  <g transform="translate(247, 0)">
+    <text x="0" y="74" text-anchor="middle" fill="#FFFFFF" font-size="42" font-weight="700">1</text>
+    <text x="0" y="104" text-anchor="middle" fill="#9D4EDD" font-size="14" font-weight="600">Текущая серия</text>
+    <text x="0" y="126" text-anchor="middle" fill="#8B949E" font-size="11">28 авг 2026</text>
+  </g>
+  <g transform="translate(412, 0)">
+    <text x="0" y="74" text-anchor="middle" fill="#FFFFFF" font-size="34" font-weight="700">7</text>
+    <text x="0" y="104" text-anchor="middle" fill="#9D4EDD" font-size="14" font-weight="600">Лучшая серия</text>
+    <text x="0" y="126" text-anchor="middle" fill="#8B949E" font-size="11">19 авг 2026 — 25 авг 2026</text>
+  </g>
+</svg>

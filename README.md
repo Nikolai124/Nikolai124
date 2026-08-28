@@ -164,7 +164,7 @@ Django и ORM.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Nikolai124&hide_border=true&background=141321&ring=C77DFF&fire=9D4EDD&currStreakLabel=C77DFF&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=C77DFF&dates=8B949E&stroke=5A189A&dateFormat=j%20M%5B%20Y%5D" alt="streak" />
+<img src="https://raw.githubusercontent.com/Nikolai124/Nikolai124/main/assets/streak.svg" width="480" alt="серии контрибуций" />
 
 <br/><br/>
 
@@ -173,7 +173,7 @@ Django и ORM.
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikolai124&theme=radical&utcOffset=3" width="380" alt="когда я пишу код" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Nikolai124&theme=radical&utcOffset=3&v=2" width="380" alt="когда я пишу код" />
 
 </div>
 
