@@ -1,0 +1,38 @@
+name: Обновить README
+
+on:
+  schedule:
+    - cron: "30 3 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Пересобрать блок «что делал недавно»
+        run: python scripts/update_readme.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Закоммитить, если что-то поменялось
+        run: |
+          if [ -n "$(git status --porcelain README.md)" ]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "Обновить список свежих репозиториев"
+            git push
+          else
+            echo "README не изменился"
+          fi
