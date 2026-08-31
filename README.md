@@ -127,7 +127,7 @@ Django и ORM.
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-<a href="https://github.com/Nikolai124/Sneak-Max"><b>Sneak-Max</b></a><br/><sub>HTML · 25 авг 2026</sub>
+<a href="https://github.com/Nikolai124/Sneak-Max"><b>Sneak-Max</b></a><br/><sub>HTML · 31 авг 2026</sub>
 
 </td><td valign="top" width="50%">
 
