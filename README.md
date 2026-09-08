@@ -127,29 +127,29 @@ Django и ORM.
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-<a href="https://github.com/Nikolai124/Sneak-Max"><b>Sneak-Max</b></a><br/><sub>HTML · 31 авг 2026</sub>
+<a href="https://github.com/Nikolai124/We-retravelingaroundMoscow"><b>We-retravelingaroundMoscow</b></a><br/><sub>PowerShell · 7 сен 2026</sub>
 
 </td><td valign="top" width="50%">
+
+<a href="https://github.com/Nikolai124/Sneak-Max"><b>Sneak-Max</b></a><br/><sub>HTML · 31 авг 2026</sub>
+
+</td></tr>
+<tr><td valign="top" width="50%">
 
 <a href="https://github.com/Nikolai124/Lesson1.Makingato-dolistfortheweek"><b>Lesson1.Makingato-dolistfortheweek</b></a><br/><sub>Python · 19 авг 2026</sub>
 
-</td></tr>
-<tr><td valign="top" width="50%">
+</td><td valign="top" width="50%">
 
 <a href="https://github.com/Nikolai124/Lesson4.Designinganonlinelibrary"><b>Lesson4.Designinganonlinelibrary</b></a><br/><sub>HTML · 29 июл 2026</sub>
 
-</td><td valign="top" width="50%">
-
-<a href="https://github.com/Nikolai124/AI-Painter"><b>AI-Painter</b></a><br/><sub>JavaScript · 20 апр 2026</sub>
-
 </td></tr>
 <tr><td valign="top" width="50%">
 
-<a href="https://github.com/Nikolai124/Multiplication-Table"><b>Multiplication-Table</b></a><br/><sub>Python · 15 апр 2026</sub>
+<a href="https://github.com/Nikolai124/AI-Painter"><b>AI-Painter</b></a><br/><sub>JavaScript · 20 апр 2026</sub>
 
 </td><td valign="top" width="50%">
 
-<a href="https://github.com/Nikolai124/cake-mongodb"><b>cake-mongodb</b></a><br/><sub>PHP · 30 мар 2026</sub>
+<a href="https://github.com/Nikolai124/Multiplication-Table"><b>Multiplication-Table</b></a><br/><sub>Python · 15 апр 2026</sub>
 
 </td></tr>
 </table>
