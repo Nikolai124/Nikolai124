@@ -127,7 +127,7 @@ Django и ORM.
 <table width="100%">
 <tr><td valign="top" width="50%">
 
-<a href="https://github.com/Nikolai124/We-retravelingaroundMoscow"><b>We-retravelingaroundMoscow</b></a><br/><sub>PowerShell · 7 сен 2026</sub>
+<a href="https://github.com/Nikolai124/We-retravelingaroundMoscow"><b>We-retravelingaroundMoscow</b></a><br/><sub>PowerShell · 9 сен 2026</sub>
 
 </td><td valign="top" width="50%">
 
