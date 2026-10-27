@@ -127,29 +127,29 @@ Django и ORM.
 <table width="100%">
 <tr><td valign="top" width="50%">
 
+<a href="https://github.com/Nikolai124/landing-coffee"><b>landing-coffee</b></a><br/><sub>HTML · 26 окт 2026</sub>
+
+</td><td valign="top" width="50%">
+
+<a href="https://github.com/Nikolai124/bot-booking"><b>bot-booking</b></a><br/><sub>Python · 26 окт 2026</sub>
+
+</td></tr>
+<tr><td valign="top" width="50%">
+
+<a href="https://github.com/Nikolai124/company-site"><b>company-site</b></a><br/><sub>Python · 26 окт 2026</sub>
+
+</td><td valign="top" width="50%">
+
+<a href="https://github.com/Nikolai124/bot-vizitka"><b>bot-vizitka</b></a><br/><sub>Python · 26 окт 2026</sub>
+
+</td></tr>
+<tr><td valign="top" width="50%">
+
 <a href="https://github.com/Nikolai124/We-retravelingaroundMoscow"><b>We-retravelingaroundMoscow</b></a><br/><sub>JavaScript · 21 окт 2026</sub>
 
 </td><td valign="top" width="50%">
 
 <a href="https://github.com/Nikolai124/Sneak-Max"><b>Sneak-Max</b></a><br/><sub>HTML · 31 авг 2026</sub>
-
-</td></tr>
-<tr><td valign="top" width="50%">
-
-<a href="https://github.com/Nikolai124/Lesson1.Makingato-dolistfortheweek"><b>Lesson1.Makingato-dolistfortheweek</b></a><br/><sub>Python · 19 авг 2026</sub>
-
-</td><td valign="top" width="50%">
-
-<a href="https://github.com/Nikolai124/Lesson4.Designinganonlinelibrary"><b>Lesson4.Designinganonlinelibrary</b></a><br/><sub>HTML · 29 июл 2026</sub>
-
-</td></tr>
-<tr><td valign="top" width="50%">
-
-<a href="https://github.com/Nikolai124/AI-Painter"><b>AI-Painter</b></a><br/><sub>JavaScript · 20 апр 2026</sub>
-
-</td><td valign="top" width="50%">
-
-<a href="https://github.com/Nikolai124/Multiplication-Table"><b>Multiplication-Table</b></a><br/><sub>Python · 15 апр 2026</sub>
 
 </td></tr>
 </table>
